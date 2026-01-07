@@ -1,6 +1,6 @@
-# Lichess for Mac
+# Native Lichess App for Mac
 
-A native macOS desktop client for [Lichess.org](https://lichess.org) - the free, open-source chess platform.
+A macOS desktop client for [Lichess.org](https://lichess.org) - the free, open-source chess platform.
 
 ![Icon](LichessApp/Assets.xcassets/AppIcon.appiconset/icon_128x128.png)
 
