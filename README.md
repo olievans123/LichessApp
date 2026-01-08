@@ -1,4 +1,4 @@
-# Native Lichess Mac Client
+# Native Lichess App for Apple Silicon
 
 A macOS desktop client for [Lichess.org](https://lichess.org) - the free, open-source chess platform.
 
